@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xuekun Li"
+  name             : # "Xuekun Li"
   avatar           : "Avatar22.jpg" # "Avatar.png"
   bio              : "MSc Autonomous and Intelligent Systems Student"
   location         : "United Kingdom"
