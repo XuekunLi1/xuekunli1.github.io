@@ -16,12 +16,13 @@ I am an MSc student in [Autonomous and Intelligent Systems](https://www.sheffiel
 News
 ======
 
+ •	17/07/2023 I was awarded [The IET Prize](https://www.theiet.org/impact-society/awards-scholarships/iet-student-prizes/) at the School Prize Giving Ceremony.
+ •	20/06/2023 I graduated from the BEng Robotics and Automation course at Leeds Beckett University with a First Class Honours degree.
+
 •	17/07/2023 I was awarded [The IET Prize](https://www.theiet.org/impact-society/awards-scholarships/iet-student-prizes/) at the School Prize Giving Ceremony.
+
 •	20/06/2023 I graduated from the BEng Robotics and Automation course at Leeds Beckett University with a First Class Honours degree.
 
-10/10/2022 I joined the Autonomous Agents Research Group as a Postdoc.
-21/02/2022 I was a senior engineer at DJI responsible for the safety design of L3 automated vehicles
-26/10/2021 I passed my doctoral examination with very good with the title of "Silent Testing for safety Validation of Automated Driving in Field Operation".
 
 
 Selected Projects
