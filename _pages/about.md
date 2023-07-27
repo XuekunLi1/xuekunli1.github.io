@@ -17,7 +17,6 @@ News
 ======
 
 •	17/07/2023 I was awarded [The IET Prize](https://www.theiet.org/impact-society/awards-scholarships/iet-student-prizes/) at the School Prize Giving Ceremony.
-
 •	20/06/2023 I graduated from the BEng Robotics and Automation course at Leeds Beckett University with a First Class Honours degree.
 
 
