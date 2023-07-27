@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Robotics Enthusiast, Gundam Fun, and Gamer"
+title: "Robotics Enthusiast and [Gundam](https://en.gundam.info/) Fun"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
