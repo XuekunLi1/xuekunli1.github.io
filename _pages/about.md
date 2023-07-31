@@ -20,6 +20,12 @@ News
 
 •	20/06/2023  I graduated from the BEng Robotics and Automation course at Leeds Beckett University with a First Class Honours degree.
 
+•	12/10/2022  I was awarded the Scientific Content Winner in the NSERP academic poster showcase.
+
+•	26/08/2022  I developed External Human-Machine Interfaces (eHMIs) for the first ever UK 'ghost driver' study.
+
+•	20/06/2022  I participated in the Nottingham Summer Engineering Research Programme (NSERP) and joined the Human Factors Research Group (HFRG) as a research assistant.
+
 
 
 Selected Projects
