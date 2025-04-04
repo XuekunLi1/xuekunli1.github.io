@@ -3,14 +3,14 @@ main:
   - title: "About"
     url: 
     
-  - title: "Projects"
-    url: /projects/
+#  - title: "Projects"
+#    url: /projects/
 
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
-  - title: "Blog"
-    url: /blog/
+#  - title: "Blog"
+#    url: /blog/
 
 #  - title: "Talks"
 #    url: /talks/    
